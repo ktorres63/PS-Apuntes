@@ -65,6 +65,7 @@ porque imprime 8 en el tamaño de A del método, la respuesta es porque realment
 entonces si queremos usar un iterador debemos enviar el tamaño en la funcion
 
 `int SumOfElemts(int* A, int size){..} `
+
 revisar el ej8
 
 
